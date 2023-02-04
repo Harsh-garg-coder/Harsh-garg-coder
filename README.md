@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Garg</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-garg-coder&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-garg-coder" /> </p>
+
 
 - 🌱 I’m currently learning **Backed Development**
 
