@@ -10,6 +10,7 @@
 - 📫 How to reach me **garg.harsh0014@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dvTPF9SfzZOF5cxgEYu23_HCb4vGPNwZ/view?usp=sharing](https://drive.google.com/file/d/1dvTPF9SfzZOF5cxgEYu23_HCb4vGPNwZ/view?usp=sharing)
+- Portfolio [https://harsh-garg-portfolio.vercel.app/](https://harsh-garg-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
