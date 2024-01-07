@@ -3,13 +3,10 @@
 
 
 
-- 🌱 I’m currently learning **Backed Development**
-
-- 💬 Ask me about **Frontend Development(Reactjs, Nextjs, Vanilla javascript, CSS)**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **garg.harsh0014@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dvTPF9SfzZOF5cxgEYu23_HCb4vGPNwZ/view?usp=sharing](https://drive.google.com/file/d/1dvTPF9SfzZOF5cxgEYu23_HCb4vGPNwZ/view?usp=sharing)
 - Portfolio [https://harsh-garg-portfolio.vercel.app/](https://harsh-garg-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
